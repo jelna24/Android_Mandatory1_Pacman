@@ -27,7 +27,6 @@ public class MyView extends View{
 	List<Enemy> enemies = new ArrayList<Enemy>();
 	Paint paint = new Paint();
 	int h,w; //used for storing our height and width
-	int highScore = 0;
 	boolean finished = false;
 
 	int point = 0;
@@ -142,7 +141,7 @@ public class MyView extends View{
 		h = canvas.getHeight();
 		w = canvas.getWidth();
 		for (Enemy enemy : enemies) {
-//               check if enemy in range of pacman
+			//check if enemy in range of pacman
 			boolean expression1 = ((75 > pacman.pacx - enemy.enemyX && pacman.pacx - enemy.enemyX > -75) && (75 > pacman.pacy - enemy.enemyY && pacman.pacy - enemy.enemyY > -75));
 			if (expression1) {
 				finished = true;
@@ -159,7 +158,6 @@ public class MyView extends View{
 
 		paint.setColor(Color.RED);
 
-		//drawing a circle based on the coin instance
 		canvas.drawCircle(coin.x, coin.y, Coin.radius, paint);
 
 		canvas.drawBitmap(bitmapPacman, pacman.pacx, pacman.pacy, paint);

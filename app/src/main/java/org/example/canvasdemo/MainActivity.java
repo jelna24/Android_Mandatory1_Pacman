@@ -1,11 +1,8 @@
 package org.example.canvasdemo;
 
 import android.app.Activity;
-import android.content.Context;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.CountDownTimer;
-import android.os.Handler;
 import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -108,7 +105,7 @@ public class MainActivity extends Activity {
 			}
 
 		}, 0, 30); //0 indicates the start of counting.
-		// It call a move method every 30 milliseconds that redraws everything correctly.
+		// It call a move method every 30 milliseconds which redraws everything correctly.
 
 		enemyMovingTimer = new Timer();
 		enemyMovingTimer.schedule(new TimerTask() {
