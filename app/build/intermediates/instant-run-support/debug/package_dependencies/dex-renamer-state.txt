@@ -1,0 +1,22 @@
+#Thu Mar 30 16:15:04 CEST 2017
+renamed.6=classes4.dex
+renamed.5=classes7.dex
+renamed.4=classes2.dex
+renamed.3=classes.dex
+renamed.2=classes6.dex
+renamed.1=classes3.dex
+renamed.0=classes5.dex
+base.6=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9d41a698fe369fa15eecf10338532f97762fecbb
+base.5=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.2.0_82e690527ce6ba8d160bd209246b130cf28edd31
+base.4=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6161d4d3531e19292d4654bc851807c443573332
+base.3=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_59c49795d659410d45d06a1532d343057c7cdd2b
+base.2=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bce0a08ae6927d88058ce84f587f924732de96ee
+base.1=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6beada9302ffced2a9f3829762c8d4bf3a30a0fb
+base.0=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9e4f79b2a79118d2ff62194b3909cda58e8f6b64
+file.6=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9d41a698fe369fa15eecf10338532f97762fecbb\\classes.dex
+file.5=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.2.0_82e690527ce6ba8d160bd209246b130cf28edd31\\classes.dex
+file.4=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6161d4d3531e19292d4654bc851807c443573332\\classes.dex
+file.3=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_59c49795d659410d45d06a1532d343057c7cdd2b\\classes.dex
+file.2=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bce0a08ae6927d88058ce84f587f924732de96ee\\classes.dex
+file.1=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6beada9302ffced2a9f3829762c8d4bf3a30a0fb\\classes.dex
+file.0=C\:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9e4f79b2a79118d2ff62194b3909cda58e8f6b64\\classes.dex

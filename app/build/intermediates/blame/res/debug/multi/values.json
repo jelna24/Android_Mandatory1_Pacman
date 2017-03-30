@@ -1,0 +1,422 @@
+[
+    {
+        "outputFile": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\CanvasDemo\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\CanvasDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\CanvasDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\CanvasDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 52,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 48,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\CanvasDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 48,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 44,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\CanvasDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 44,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\CanvasDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "C:\\Users\\makn\\AndroidStudioProjects\\course2016\\CanvasDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 52,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 43,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 43,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 43,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 47,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 47,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 644
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 649,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\Android_Mandatory1_Pacman\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\CanvasDemo-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\CanvasDemo-master\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\CanvasDemo-master\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\CanvasDemo-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 43,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\CanvasDemo-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 43,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\CanvasDemo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 43,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 47,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\CanvasDemo-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 47,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\CanvasDemo-master\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "C:\\Users\\Asus\\Desktop\\Pba WebDev\\2nd semester\\Android\\CanvasDemo-master\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
