@@ -166,7 +166,6 @@ public class MainActivity extends Activity {
 				current_level = 1;
 				timePassed = 0;
 				direction = "Right";
-
 			}
 			if (running && !gameView.finished) {
 				switch (direction) {
@@ -232,8 +231,8 @@ public class MainActivity extends Activity {
 	private Runnable Enemy_Move = new Runnable() {
 		public void run() {
 			if (running) {
-				if (gameView.enemies.size() < 3) {
-					for (int i = 0; i < 3; i++) {
+				if (gameView.enemies.size() < 4) {
+					for (int i = 0; i < 4; i++) {
 						Enemy enemy = new Enemy(gameView.w / 2, gameView.h / 2);
 						gameView.enemies.add(enemy);
 					}
